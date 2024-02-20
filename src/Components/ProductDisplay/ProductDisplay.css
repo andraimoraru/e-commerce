@@ -16,11 +16,15 @@
 
 .productdisplay-img-list img{
     height: 163px;
+    border: 1px solid #f3e9e9;
+    border-radius: 5px;
 }
 
 .productdisplay-main-img{
     width: 586px;
-    height: 700px
+    height: 700px;
+    border: 1px solid #f3e9e9;
+    border-radius: 5px;
 }
 
 .productdisplay-right{

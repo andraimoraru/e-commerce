@@ -6,6 +6,12 @@
     margin: 6px 0px;
 }
 
+.item img{
+    border: 1px solid #f3e9e9;
+    border-radius: 5px;
+}
+
+
 .item-prices{
     display: flex;
     gap: 20px;

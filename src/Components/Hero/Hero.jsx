@@ -20,8 +20,7 @@ export const Hero = () => {
             <div className="hero-latest-btn">
                 <div>Latest Collection</div>
                 <img src={arrow_icon} alt="" />
-            </div>
-            
+            </div>          
         </div>
         <div className="hero-right">
             <img src={hero_image} alt="" />
@@ -30,3 +29,6 @@ export const Hero = () => {
     </div>
   )
 }
+
+
+export default Hero

@@ -5,7 +5,8 @@ import remove_icon from '../Assets/cart_cross_icon.png';
 
 export const CartItems = () => {
 
-    const {all_product, cartItems, removeFromCart, getTotalCartAmount } = useContext(ShopContext);
+  const {all_product, cartItems, removeFromCart, getTotalCartAmount } = useContext(ShopContext);
+  
   return (
     <div className='cartitems'>
         <div className="cartitems-format-main">
@@ -66,4 +67,4 @@ export const CartItems = () => {
   )
 }
 
-export default CartItems
+export default CartItems;

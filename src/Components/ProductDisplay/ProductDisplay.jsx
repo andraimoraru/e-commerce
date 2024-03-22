@@ -57,4 +57,4 @@ export const ProductDisplay = (props) => {
   )
 }
 
-export default ProductDisplay
+export default ProductDisplay;

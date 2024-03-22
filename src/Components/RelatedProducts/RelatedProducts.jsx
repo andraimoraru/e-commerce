@@ -1,7 +1,7 @@
 import React from 'react';
 import './RelatedProducts.css';
 import data_product from '../Assets/data';
-import { Item } from '../Item/Item'
+import { Item } from '../Item/Item';
 
 export const RelatedProducts = () => {
   return (
@@ -20,4 +20,4 @@ export const RelatedProducts = () => {
 }
 
 
-export default RelatedProducts
+export default RelatedProducts;

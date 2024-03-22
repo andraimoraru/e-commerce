@@ -18,7 +18,6 @@ export const LoginSignup = () => {
           <p>By continuing I agree to the terms of use & privacy policy.</p>
         </div>
       </div>
-
     </div>
   )
 }

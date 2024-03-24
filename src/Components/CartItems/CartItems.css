@@ -10,7 +10,7 @@
 
 .cartitems-format-main {
     display: grid;
-    grid-template-columns: 0.5fr 2fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 0.5fr 2fr 1fr 1fr 1fr 1fr;
     align-items: center;
     gap: 75px;
     padding: 20px 0px;
@@ -134,7 +134,7 @@
         gap: 80px;
     }
     .cartitems-total {
-        margin: 0px;
+        margin: 0;
     }
     .cartitems-total button {
         max-width: 200px;

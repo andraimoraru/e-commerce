@@ -9,7 +9,7 @@ export const DescriptionBox = () => {
             <div className="descriptionbox-nav-box fade">Reviews (122)</div>
         </div>
         <div className="descriptionbox-description">
-            <p>An e-commerce website is an onlione platform that facilitare buying and selling of products, etc.</p>
+            <p>An e-commerce website is an online platform that facilitate buying and selling of products, etc.</p>
             <p>Jewellery E-commerce</p>
         </div>
     </div>

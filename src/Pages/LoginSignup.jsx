@@ -3,8 +3,6 @@ import './CSS/LoginSignup.css';
 
 export const LoginSignup = () => {
 
-  const [state, setState] = useState("Login");
-
 
   return (
     <div className='loginsignup'>
